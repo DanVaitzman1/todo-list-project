@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+node_modules/
+todo-list-service/node_modules/
+todo-list-app/node_modules/
